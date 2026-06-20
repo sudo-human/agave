@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.AEduck" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="396.999" y="1152" type="line"/>
+      <point x="992" y="1152" type="line"/>
+      <point x="992" y="995" type="line"/>
+      <point x="682" y="995" type="line"/>
+      <point x="682" y="669" type="line"/>
+      <point x="960" y="669" type="line"/>
+      <point x="960" y="512" type="line"/>
+      <point x="682" y="512" type="line"/>
+      <point x="682" y="157" type="line"/>
+      <point x="992" y="157" type="line"/>
+      <point x="992" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="256" type="line"/>
+      <point x="278" y="256" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="995" type="line"/>
+      <point x="328" y="413" type="line"/>
+      <point x="512" y="413" type="line"/>
+    </contour>
+  </outline>
+</glyph>

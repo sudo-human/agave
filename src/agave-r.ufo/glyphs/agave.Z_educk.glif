@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Zeduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="160" y="1144" type="line"/>
+      <point x="265" y="1160"/>
+      <point x="435" y="1160" type="qcurve" smooth="yes"/>
+      <point x="653" y="1160"/>
+      <point x="880" y="1009"/>
+      <point x="880" y="832" type="qcurve" smooth="yes"/>
+      <point x="880" y="782"/>
+      <point x="845" y="700"/>
+      <point x="795" y="653"/>
+      <point x="745" y="620"/>
+      <point x="727.5" y="614.5" type="qcurve" smooth="yes"/>
+      <point x="710" y="609" type="line"/>
+      <point x="718" y="607"/>
+      <point x="745" y="597"/>
+      <point x="815" y="554"/>
+      <point x="868" y="498"/>
+      <point x="912" y="396"/>
+      <point x="912" y="334" type="qcurve" smooth="yes"/>
+      <point x="912" y="150"/>
+      <point x="669" y="-8"/>
+      <point x="435" y="-8" type="qcurve" smooth="yes"/>
+      <point x="351" y="-8"/>
+      <point x="197" y="-0"/>
+      <point x="162.5" y="4" type="qcurve" smooth="yes"/>
+      <point x="128" y="8" type="line"/>
+      <point x="128" y="157" type="line"/>
+      <point x="435" y="157" type="line" smooth="yes"/>
+      <point x="586" y="157"/>
+      <point x="742" y="238"/>
+      <point x="742" y="430"/>
+      <point x="569" y="512"/>
+      <point x="402" y="512" type="qcurve" smooth="yes"/>
+      <point x="224" y="512" type="line"/>
+      <point x="224" y="669" type="line"/>
+      <point x="390" y="669" type="line" smooth="yes"/>
+      <point x="547" y="669"/>
+      <point x="710" y="744"/>
+      <point x="710" y="920"/>
+      <point x="570" y="995"/>
+      <point x="435" y="995" type="qcurve" smooth="yes"/>
+      <point x="160" y="995" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Aduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="410" y="1152" type="line"/>
+      <point x="614" y="1152" type="line"/>
+      <point x="960" y="0" type="line"/>
+      <point x="783" y="0" type="line"/>
+      <point x="706" y="256" type="line"/>
+      <point x="318" y="256" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="975" type="line"/>
+      <point x="481" y="798" type="line"/>
+      <point x="365" y="413" type="line"/>
+      <point x="659" y="413" type="line"/>
+      <point x="543" y="798" type="line"/>
+    </contour>
+  </outline>
+</glyph>

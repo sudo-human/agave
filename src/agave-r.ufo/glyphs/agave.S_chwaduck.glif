@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Schwaduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="406" y="1160" type="qcurve" smooth="yes"/>
+      <point x="649" y="1160"/>
+      <point x="936" y="834"/>
+      <point x="936" y="310"/>
+      <point x="706" y="-16"/>
+      <point x="512" y="-16" type="qcurve" smooth="yes"/>
+      <point x="319" y="-16"/>
+      <point x="96" y="220"/>
+      <point x="96" y="424" type="qcurve" smooth="yes"/>
+      <point x="96" y="512" type="line" smooth="yes"/>
+      <point x="96" y="601"/>
+      <point x="170" y="669"/>
+      <point x="266" y="669" type="qcurve" smooth="yes"/>
+      <point x="758" y="669" type="line"/>
+      <point x="758" y="676"/>
+      <point x="756" y="699"/>
+      <point x="743" y="767"/>
+      <point x="718" y="829"/>
+      <point x="666" y="904"/>
+      <point x="594" y="958"/>
+      <point x="478" y="995"/>
+      <point x="406" y="995" type="qcurve" smooth="yes"/>
+      <point x="184" y="995" type="line"/>
+      <point x="184" y="1144" type="line"/>
+      <point x="269" y="1160"/>
+    </contour>
+    <contour>
+      <point x="266" y="512" type="line"/>
+      <point x="266" y="424" type="line" smooth="yes"/>
+      <point x="266" y="293"/>
+      <point x="398" y="141"/>
+      <point x="512" y="141" type="qcurve" smooth="yes"/>
+      <point x="562" y="141"/>
+      <point x="644" y="182"/>
+      <point x="693" y="247"/>
+      <point x="730" y="326"/>
+      <point x="747" y="406"/>
+      <point x="757" y="471"/>
+      <point x="757.5" y="491.5" type="qcurve" smooth="yes"/>
+      <point x="758" y="512" type="line"/>
+    </contour>
+  </outline>
+</glyph>

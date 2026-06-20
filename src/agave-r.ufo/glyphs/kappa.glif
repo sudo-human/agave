@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="2">
+  <advance width="1024"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="756" y="1024" type="line"/>
+      <point x="960" y="1024" type="line"/>
+      <point x="490" y="531" type="line"/>
+      <point x="960" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="298" y="512" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="1024" type="line"/>
+      <point x="298" y="1024" type="line"/>
+      <point x="298" y="544" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\one \i \I \l \hyphen \o \bar \space \uni00A0 \agave.Aduck 
+	\agave.Bduck \agave.Cduck \agave.Dduck \agave.Educk \agave.Fduck \agave.Gduck 
+	\agave.Hduck \agave.Iduck \agave.Jduck \agave.Kduck \agave.Lduck \agave.lduck 
+	\agave.Mduck \agave.Nduck \agave.Oduck \agave.Pduck \agave.Rduck \agave.Sduck 
+	\agave.Tduck \agave.Uduck \agave.Vduck \agave.Wduck \agave.Xduck \agave.Yduck 
+	\agave.Zduck \agave.AEduck \agave.Oslashduck \agave.Ezhduck \agave.Gammaduck 
+	\agave.Ucyrduck \agave.Izhitsaduck \agave.Schwaduck \agave.Zeduck 
+	\agave.Otildeduck \agave.Ecyrduck \agave.Cheduck \agave.Yeruduck 
+	\agave.Ohornduck \agave.Uhornduck \agave.Omegaduck \agave.diaresisduck 
+	\slash \backslash \L \equal \E \F \H ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

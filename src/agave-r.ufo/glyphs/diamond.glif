@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamond" format="2">
+  <advance width="1024"/>
+  <unicode hex="2666"/>
+  <outline>
+    <contour>
+      <point x="96" y="576" type="line"/>
+      <point x="512" y="1168" type="line"/>
+      <point x="928" y="576" type="line"/>
+      <point x="512" y="-16" type="line"/>
+    </contour>
+  </outline>
+</glyph>

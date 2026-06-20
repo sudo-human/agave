@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Oduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="48" y="739"/>
+      <point x="111" y="971"/>
+      <point x="235" y="1107"/>
+      <point x="401" y="1168"/>
+      <point x="623" y="1168"/>
+      <point x="789" y="1107"/>
+      <point x="913" y="971"/>
+      <point x="976" y="739"/>
+      <point x="976" y="413"/>
+      <point x="913" y="181"/>
+      <point x="789" y="45"/>
+      <point x="623" y="-16"/>
+      <point x="401" y="-16"/>
+      <point x="235" y="45"/>
+      <point x="111" y="181"/>
+      <point x="48" y="413"/>
+    </contour>
+    <contour>
+      <point x="417" y="1011"/>
+      <point x="291" y="931"/>
+      <point x="218" y="735"/>
+      <point x="218" y="417"/>
+      <point x="291" y="221"/>
+      <point x="417" y="141"/>
+      <point x="607" y="141"/>
+      <point x="733" y="221"/>
+      <point x="806" y="417"/>
+      <point x="806" y="735"/>
+      <point x="733" y="931"/>
+      <point x="607" y="1011"/>
+    </contour>
+  </outline>
+</glyph>

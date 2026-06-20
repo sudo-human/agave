@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circle" format="2">
+  <advance width="1024"/>
+  <unicode hex="25CB"/>
+  <outline>
+    <contour>
+      <point x="724" y="1152"/>
+      <point x="1024" y="852"/>
+      <point x="1024" y="428"/>
+      <point x="724" y="128"/>
+      <point x="300" y="128"/>
+      <point x="0" y="428"/>
+      <point x="0" y="852"/>
+      <point x="300" y="1152"/>
+    </contour>
+    <contour>
+      <point x="353" y="1024"/>
+      <point x="128" y="799"/>
+      <point x="128" y="481"/>
+      <point x="353" y="256"/>
+      <point x="671" y="256"/>
+      <point x="896" y="481"/>
+      <point x="896" y="799"/>
+      <point x="671" y="1024"/>
+    </contour>
+  </outline>
+</glyph>

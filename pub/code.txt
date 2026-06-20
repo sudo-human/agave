@@ -3,6 +3,8 @@
  * Copyright (c) 1989, 1993
  *   The Regents of the University of California.
  *   All rights reserved.
+ *
+ * The following code is used in this project only for the purpose of demonstrating the code's visual appearance when rendered with the `agave` font. This file serves as a convenient backup of the code so that rerenders of the demonstrative image doesn't require searching for the code every time `agave` font gets updated.
  */
 
 #include <stdio.h>

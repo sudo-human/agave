@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Yeruduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="64" y="1152" type="line"/>
+      <point x="234" y="1152" type="line"/>
+      <point x="234" y="768" type="line"/>
+      <point x="340" y="768" type="line" smooth="yes"/>
+      <point x="507" y="768"/>
+      <point x="682" y="589"/>
+      <point x="682" y="380" type="qcurve" smooth="yes"/>
+      <point x="682" y="172"/>
+      <point x="509" y="0"/>
+      <point x="340" y="0" type="qcurve" smooth="yes"/>
+      <point x="64" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="790" y="1152" type="line"/>
+      <point x="960" y="1152" type="line"/>
+      <point x="960" y="0" type="line"/>
+      <point x="790" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="611" type="line"/>
+      <point x="234" y="157" type="line"/>
+      <point x="340" y="157" type="line" smooth="yes"/>
+      <point x="425" y="157"/>
+      <point x="512" y="257"/>
+      <point x="512" y="380" type="qcurve" smooth="yes"/>
+      <point x="512" y="504"/>
+      <point x="424" y="611"/>
+      <point x="340" y="611" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

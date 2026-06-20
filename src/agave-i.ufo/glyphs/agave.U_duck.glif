@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Uduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="32" y="1152" type="line"/>
+      <point x="202" y="1152" type="line"/>
+      <point x="202" y="527" type="line" smooth="yes"/>
+      <point x="202" y="309"/>
+      <point x="337" y="141"/>
+      <point x="687" y="141"/>
+      <point x="822" y="309"/>
+      <point x="822" y="527" type="qcurve" smooth="yes"/>
+      <point x="822" y="1152" type="line"/>
+      <point x="992" y="1152" type="line"/>
+      <point x="992" y="527" type="line" smooth="yes"/>
+      <point x="992" y="372"/>
+      <point x="944" y="168"/>
+      <point x="829" y="38"/>
+      <point x="649" y="-16"/>
+      <point x="375" y="-16"/>
+      <point x="195" y="38"/>
+      <point x="80" y="168"/>
+      <point x="32" y="372"/>
+      <point x="32" y="527" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

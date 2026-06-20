@@ -6,6 +6,10 @@ legend:
 "imp" = modified as improvement
 " * " = non-design or holistic update
 
+38
+- [*] switch license of font files to SIL Open Font License v1.1
+- [*] add UFO files
+
 37
 r:
 - [*] non-connectable glyphs strictly within bounds

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Kduck" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="661" y="1152" type="line"/>
+      <point x="928" y="1152" type="line"/>
+      <point x="572" y="579" type="line"/>
+      <point x="960" y="0" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="323" y="544" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="1152" type="line"/>
+      <point x="323" y="1152" type="line"/>
+      <point x="323" y="608" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EA8" format="2">
+  <advance width="1024"/>
+  <unicode hex="1EA8"/>
+  <outline>
+    <component base="agave.Aduck"/>
+    <component base="uni0302" xOffset="-196" yOffset="128"/>
+    <component base="hookabovecomb" xOffset="320" yOffset="128"/>
+  </outline>
+</glyph>

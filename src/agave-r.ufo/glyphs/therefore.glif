@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="therefore" format="2">
+  <advance width="1024"/>
+  <unicode hex="2234"/>
+  <outline>
+    <contour>
+      <point x="565" y="1152"/>
+      <point x="640" y="1077"/>
+      <point x="640" y="971"/>
+      <point x="565" y="896"/>
+      <point x="459" y="896"/>
+      <point x="384" y="971"/>
+      <point x="384" y="1077"/>
+      <point x="459" y="1152"/>
+    </contour>
+    <contour>
+      <point x="245" y="512"/>
+      <point x="320" y="437"/>
+      <point x="320" y="331"/>
+      <point x="245" y="256"/>
+      <point x="139" y="256"/>
+      <point x="64" y="331"/>
+      <point x="64" y="437"/>
+      <point x="139" y="512"/>
+    </contour>
+    <contour>
+      <point x="885" y="512"/>
+      <point x="960" y="437"/>
+      <point x="960" y="331"/>
+      <point x="885" y="256"/>
+      <point x="779" y="256"/>
+      <point x="704" y="331"/>
+      <point x="704" y="437"/>
+      <point x="779" y="512"/>
+    </contour>
+  </outline>
+</glyph>

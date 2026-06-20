@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni020C" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="020C"/>
+  <outline>
+    <component base="agave.Oduck"/>
+    <component base="uni030F" yOffset="128"/>
+  </outline>
+</glyph>

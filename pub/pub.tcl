@@ -1,4 +1,5 @@
 #! /usr/bin/env tclsh
+# SPDX-License-Identifier: MIT
 
 proc argue {arg} {
   global ascii lit_en lit_el lit_ru lit_cz uni kuhn

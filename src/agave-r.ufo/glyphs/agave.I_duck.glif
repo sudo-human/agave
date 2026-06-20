@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Iduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="160" y="1152" type="line"/>
+      <point x="864" y="1152" type="line"/>
+      <point x="864" y="995" type="line"/>
+      <point x="597" y="995" type="line"/>
+      <point x="597" y="157" type="line"/>
+      <point x="864" y="157" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="157" type="line"/>
+      <point x="427" y="157" type="line"/>
+      <point x="427" y="995" type="line"/>
+      <point x="160" y="995" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+  <advance width="1024" height="1024"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="80" y="658"/>
+      <point x="139" y="864"/>
+      <point x="254" y="985"/>
+      <point x="408" y="1040"/>
+      <point x="616" y="1040"/>
+      <point x="770" y="985"/>
+      <point x="885" y="864"/>
+      <point x="944" y="658"/>
+      <point x="944" y="366"/>
+      <point x="885" y="160"/>
+      <point x="770" y="39"/>
+      <point x="616" y="-16"/>
+      <point x="408" y="-16"/>
+      <point x="254" y="39"/>
+      <point x="139" y="160"/>
+      <point x="80" y="366"/>
+    </contour>
+    <contour>
+      <point x="426" y="854"/>
+      <point x="336" y="696"/>
+      <point x="336" y="328"/>
+      <point x="426" y="170"/>
+      <point x="598" y="170"/>
+      <point x="688" y="328"/>
+      <point x="688" y="696"/>
+      <point x="598" y="854"/>
+    </contour>
+  </outline>
+</glyph>

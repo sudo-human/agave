@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Cheduck" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="896" y="0" type="line"/>
+      <point x="726" y="0" type="line"/>
+      <point x="726" y="520" type="line"/>
+      <point x="644" y="504"/>
+      <point x="512" y="504" type="qcurve" smooth="yes"/>
+      <point x="324" y="504"/>
+      <point x="128" y="687"/>
+      <point x="128" y="902" type="qcurve" smooth="yes"/>
+      <point x="128" y="1152" type="line"/>
+      <point x="298" y="1152" type="line"/>
+      <point x="298" y="902" type="line" smooth="yes"/>
+      <point x="298" y="776"/>
+      <point x="407" y="669"/>
+      <point x="512" y="669" type="qcurve" smooth="yes"/>
+      <point x="726" y="669" type="line"/>
+      <point x="726" y="1152" type="line"/>
+      <point x="896" y="1152" type="line"/>
+    </contour>
+  </outline>
+</glyph>

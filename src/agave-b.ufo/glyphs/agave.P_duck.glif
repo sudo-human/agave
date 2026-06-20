@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Pduck" format="2">
+  <advance width="1024" height="1024"/>
+  <outline>
+    <contour>
+      <point x="96" y="1152" type="line"/>
+      <point x="560" y="1152" type="line" smooth="yes"/>
+      <point x="738" y="1152"/>
+      <point x="944" y="965"/>
+      <point x="944" y="641"/>
+      <point x="695" y="454"/>
+      <point x="480" y="454" type="qcurve" smooth="yes"/>
+      <point x="352" y="454" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="966" type="line"/>
+      <point x="352" y="640" type="line"/>
+      <point x="480" y="640" type="line" smooth="yes"/>
+      <point x="577" y="640"/>
+      <point x="688" y="727"/>
+      <point x="688" y="879"/>
+      <point x="619" y="966"/>
+      <point x="560" y="966" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

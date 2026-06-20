@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Rduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="128" y="1152" type="line"/>
+      <point x="572" y="1152" type="line" smooth="yes"/>
+      <point x="739" y="1152"/>
+      <point x="912" y="1004"/>
+      <point x="912" y="832" type="qcurve" smooth="yes"/>
+      <point x="912" y="705.021"/>
+      <point x="800.175" y="559.695"/>
+      <point x="692.443" y="531.635" type="qcurve"/>
+      <point x="960" y="0" type="line"/>
+      <point x="770" y="0" type="line"/>
+      <point x="512" y="512" type="line"/>
+      <point x="298" y="512" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="995" type="line"/>
+      <point x="298" y="669" type="line"/>
+      <point x="468" y="669" type="line" smooth="yes"/>
+      <point x="602" y="669"/>
+      <point x="742" y="744"/>
+      <point x="742" y="920"/>
+      <point x="655" y="995"/>
+      <point x="572" y="995" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

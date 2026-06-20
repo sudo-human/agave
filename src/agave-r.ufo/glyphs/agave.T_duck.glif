@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agave.Tduck" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="64" y="1152" type="line"/>
+      <point x="960" y="1152" type="line"/>
+      <point x="960" y="995" type="line"/>
+      <point x="597" y="995" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="427" y="995" type="line"/>
+      <point x="64" y="995" type="line"/>
+    </contour>
+  </outline>
+</glyph>

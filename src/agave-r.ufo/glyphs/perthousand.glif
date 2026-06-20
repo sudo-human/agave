@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="2">
+  <advance width="1024"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="64" y="1280" type="line"/>
+      <point x="256" y="1280" type="line"/>
+      <point x="256" y="969" type="line"/>
+      <point x="64" y="969" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="1280" type="line"/>
+      <point x="682" y="1280" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="311" type="line"/>
+      <point x="618" y="311" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="768" y="311" type="line"/>
+      <point x="960" y="311" type="line"/>
+      <point x="960" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
