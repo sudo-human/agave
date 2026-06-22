@@ -18,7 +18,7 @@ More description at: https://b.agaric.net/page/agave
 |---------|-------------|--------------------------------|
 | Regular | 2443 | ascii, latin ext, greek, cyrillic, ipa, math, arrows, box-drawing, braille, powerline, others |
 | Bold | 96 | ascii |
-| Italic | 95 | ascii |
+| Italic | 96 | ascii |
 | BoldItalic | 2 | *not ready* |
 
 
