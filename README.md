@@ -1,6 +1,6 @@
 # Agave
 
-**version 38**, 20 jun 2026
+**version 39**, 22 jun 2026
 
 | *download* | Regular | Bold |
 |-|---------|------|
@@ -18,7 +18,7 @@ More description at: https://b.agaric.net/page/agave
 |---------|-------------|--------------------------------|
 | Regular | 2443 | ascii, latin ext, greek, cyrillic, ipa, math, arrows, box-drawing, braille, powerline, others |
 | Bold | 96 | ascii |
-| Italic | 15 | *not ready* |
+| Italic | 95 | ascii |
 | BoldItalic | 2 | *not ready* |
 
 
