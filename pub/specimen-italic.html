@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Agave Italic — All ASCII Glyphs</title>
+<style>
+  @font-face {
+    font-family: 'Agave';
+    src: url('../dist/Agave-Regular.ttf');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Agave';
+    src: url('../dist/Agave-Italic.ttf');
+    font-style: italic;
+  }
+
+  body {
+    background: #1e1e1e;
+    color: #d4d4d4;
+    font-family: sans-serif;
+    padding: 2rem;
+  }
+
+  h1 { font-size: 1.2rem; margin-bottom: 0.25rem; }
+  p.note { font-size: 0.8rem; color: #888; margin-bottom: 2rem; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+  }
+
+  .cell {
+    background: #2d2d2d;
+    border-radius: 4px;
+    padding: 0.75rem 0.5rem;
+    text-align: center;
+  }
+
+  .glyph {
+    font-family: 'Agave', monospace;
+    font-size: 48px;
+    line-height: 1;
+    display: block;
+    margin-bottom: 0.4rem;
+  }
+
+  .glyph.regular { font-style: normal; color: #888; }
+  .glyph.italic  { font-style: italic;  color: #e8c07b; }
+
+  .label {
+    font-size: 0.65rem;
+    color: #666;
+    font-family: monospace;
+  }
+
+  h2 { font-size: 0.9rem; color: #888; margin: 2rem 0 0.75rem; }
+
+  .sentence {
+    font-family: 'Agave', monospace;
+    font-size: 24px;
+    margin-bottom: 0.5rem;
+  }
+</style>
+</head>
+<body>
+
+<h1>Agave Italic — ASCII complete</h1>
+<p class="note">
+  Grey = Regular &nbsp;·&nbsp; Yellow = Italic.
+  <span style="color:#e8c07b">&#9733;</span> = hand-drawn (15) &nbsp;·&nbsp; rest = oblique-generated (80). 95 glyphs total.
+</p>
+
+<div class="grid" id="glyphs"></div>
+
+<h2>In context</h2>
+<div class="sentence" style="font-style:normal">The quick brown fox jumps over the lazy dog. 0123456789</div>
+<div class="sentence" style="font-style:italic">The quick brown fox jumps over the lazy dog. 0123456789</div>
+<div class="sentence" style="font-style:normal">if (x == 1) { return "hello"; } // comment</div>
+<div class="sentence" style="font-style:italic">if (x == 1) { return "hello"; } // comment</div>
+
+<script>
+const HANDDRAWN = new Set([0x0020,0x002D,0x002F,0x0031,0x003D,0x0045,0x0046,0x0048,0x0049,0x004C,0x005C,0x007C,0x0069,0x006C,0x006F]);
+
+const grid = document.getElementById('glyphs');
+for (let cp = 0x0020; cp <= 0x007E; cp++) {
+  const display = cp === 0x0020 ? '␚' : String.fromCodePoint(cp);
+  const star = HANDDRAWN.has(cp) ? ' <span style="color:#e8c07b;font-size:0.6rem">&#9733;</span>' : '';
+  grid.innerHTML += `
+    <div class="cell">
+      <span class="glyph regular">${display}</span>
+      <span class="glyph italic">${display}</span>
+      <div class="label">U+${cp.toString(16).toUpperCase().padStart(4,'0')}${star}</div>
+    </div>`;
+}
+</script>
+</body>
+</html>
