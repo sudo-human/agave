@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1603808863
-ModificationTime: 1782121167
+ModificationTime: 1782121652
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -69,12 +69,12 @@ WinInfo: 40 40 31
 BeginPrivate: 0
 EndPrivate
 TeXData: 3 0 0 524288 262144 174762 655360 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65579 138
+BeginChars: 65579 139
 
 StartChar: one
 Encoding: 49 49 0
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -91,8 +91,8 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 1
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -117,8 +117,8 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 2
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -140,8 +140,8 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 3
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -161,8 +161,8 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 4
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -176,8 +176,8 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 5
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -212,8 +212,8 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 6
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1601,8 +1601,8 @@ EndChar
 
 StartChar: slash
 Encoding: 47 47 51
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1616,8 +1616,8 @@ EndChar
 
 StartChar: backslash
 Encoding: 92 92 52
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1631,8 +1631,8 @@ EndChar
 
 StartChar: L
 Encoding: 76 76 53
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1648,8 +1648,8 @@ EndChar
 
 StartChar: equal
 Encoding: 61 61 54
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1668,8 +1668,8 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 55
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1691,8 +1691,8 @@ EndChar
 
 StartChar: F
 Encoding: 70 70 56
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1712,8 +1712,8 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 57
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1735,8 +1735,8 @@ EndChar
 
 StartChar: exclam
 Encoding: 33 33 58
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1755,8 +1755,8 @@ EndChar
 
 StartChar: quotedbl
 Encoding: 34 34 59
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1775,8 +1775,8 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 60
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1819,8 +1819,8 @@ EndChar
 
 StartChar: dollar
 Encoding: 36 36 61
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1874,8 +1874,8 @@ EndChar
 
 StartChar: percent
 Encoding: 37 37 62
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1899,8 +1899,8 @@ EndChar
 
 StartChar: ampersand
 Encoding: 38 38 63
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1955,8 +1955,8 @@ EndChar
 
 StartChar: quotesingle
 Encoding: 39 39 64
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1970,8 +1970,8 @@ EndChar
 
 StartChar: parenleft
 Encoding: 40 40 65
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2011,8 +2011,8 @@ EndChar
 
 StartChar: parenright
 Encoding: 41 41 66
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2052,8 +2052,8 @@ EndChar
 
 StartChar: asterisk
 Encoding: 42 42 67
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2078,8 +2078,8 @@ EndChar
 
 StartChar: plus
 Encoding: 43 43 68
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2101,8 +2101,8 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 69
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2127,8 +2127,8 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 70
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2142,8 +2142,8 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 71
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2175,8 +2175,8 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 72
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2209,8 +2209,8 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 73
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2255,8 +2255,8 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 74
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2281,8 +2281,8 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 75
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2314,8 +2314,8 @@ EndChar
 
 StartChar: six
 Encoding: 54 54 76
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2345,8 +2345,8 @@ EndChar
 
 StartChar: seven
 Encoding: 55 55 77
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2363,8 +2363,8 @@ EndChar
 
 StartChar: eight
 Encoding: 56 56 78
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2436,8 +2436,8 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 79
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2467,8 +2467,8 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 80
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2487,8 +2487,8 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 81
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2518,8 +2518,8 @@ EndChar
 
 StartChar: less
 Encoding: 60 60 82
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2536,8 +2536,8 @@ EndChar
 
 StartChar: greater
 Encoding: 62 62 83
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2554,8 +2554,8 @@ EndChar
 
 StartChar: question
 Encoding: 63 63 84
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2584,8 +2584,8 @@ EndChar
 
 StartChar: at
 Encoding: 64 64 85
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2636,8 +2636,8 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 86
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2661,8 +2661,8 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 87
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2711,8 +2711,8 @@ EndChar
 
 StartChar: C
 Encoding: 67 67 88
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2740,8 +2740,8 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 89
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2774,8 +2774,8 @@ EndChar
 
 StartChar: G
 Encoding: 71 71 90
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2811,8 +2811,8 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 91
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2838,8 +2838,8 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 92
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2860,8 +2860,8 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 93
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2888,8 +2888,8 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 94
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2913,8 +2913,8 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 95
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2957,8 +2957,8 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 96
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2985,8 +2985,8 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 97
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3019,8 +3019,8 @@ EndChar
 
 StartChar: R
 Encoding: 82 82 98
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3049,8 +3049,8 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 99
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3097,8 +3097,8 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 100
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3116,8 +3116,8 @@ EndChar
 
 StartChar: U
 Encoding: 85 85 101
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3145,8 +3145,8 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 102
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3165,8 +3165,8 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 103
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3189,8 +3189,8 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 104
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3212,8 +3212,8 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 105
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3232,8 +3232,8 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 106
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3253,8 +3253,8 @@ EndChar
 
 StartChar: bracketleft
 Encoding: 91 91 107
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3272,8 +3272,8 @@ EndChar
 
 StartChar: bracketright
 Encoding: 93 93 108
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3291,8 +3291,8 @@ EndChar
 
 StartChar: asciicircum
 Encoding: 94 94 109
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3309,8 +3309,8 @@ EndChar
 
 StartChar: underscore
 Encoding: 95 95 110
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3324,8 +3324,8 @@ EndChar
 
 StartChar: grave
 Encoding: 96 96 111
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3339,8 +3339,8 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 112
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3377,8 +3377,8 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 113
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3409,8 +3409,8 @@ EndChar
 
 StartChar: c
 Encoding: 99 99 114
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3439,8 +3439,8 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 115
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3471,8 +3471,8 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 116
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3514,8 +3514,8 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 117
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3545,8 +3545,8 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 118
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3585,8 +3585,8 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 119
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3610,8 +3610,8 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 120
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3640,8 +3640,8 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 121
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3662,8 +3662,8 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 122
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3709,8 +3709,8 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 123
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3738,8 +3738,8 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 124
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3770,8 +3770,8 @@ EndChar
 
 StartChar: q
 Encoding: 113 113 125
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3802,8 +3802,8 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 126
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3829,8 +3829,8 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 127
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3873,8 +3873,8 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 128
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3902,8 +3902,8 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 129
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3931,8 +3931,8 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 130
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3951,8 +3951,8 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 131
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3979,8 +3979,8 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 132
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4002,8 +4002,8 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 133
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4035,8 +4035,8 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 134
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4056,8 +4056,8 @@ EndChar
 
 StartChar: braceleft
 Encoding: 123 123 135
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4091,8 +4091,8 @@ EndChar
 
 StartChar: braceright
 Encoding: 125 125 136
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4126,8 +4126,8 @@ EndChar
 
 StartChar: asciitilde
 Encoding: 126 126 137
-Width: 2048
-Flags: H
+Width: 1024
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4161,6 +4161,13 @@ SplineSet
  316.677734375 605 316.677734375 605 276.828125 379 c 0
  130.828125 379 l 0
 EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 138
+Width: 1024
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont

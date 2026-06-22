@@ -39,13 +39,13 @@ for name in MISSING:
     # Get or create the glyph slot in italic
     gi = font_i.createChar(gr.unicode, name)
 
-    gi.width = gr.width
     gi.clear()
 
     pen = gi.glyphPen()
     gr.draw(pen)
     del pen
 
+    gi.width = gr.width
     gi.transform(SHEAR)
 
     added += 1
